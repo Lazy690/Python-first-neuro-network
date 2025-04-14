@@ -1,7 +1,7 @@
 import numpy as np
 
-
-input = np.array([5, 0])
+#the 5 means size, and the last number is either 1 or 0, 1 being red and 0 being orage. the color of the fruit I mean.
+input = np.array([5, 1])
 
 weights = np.array([0.7, 1.2])
 
